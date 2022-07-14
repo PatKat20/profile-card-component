@@ -8,13 +8,18 @@ body{
     font-size:18px;
     font-family: 'Kumbh Sans', sans-serif;
     background-color:var(--darkCyan);
+    overflow:hidden;
+}
+
+.container{
     position:relative;
+    overflow: hidden;
+    width:100%;
     display:flex; 
     flex-direction:column; 
     justify-content:center;
     align-items: center;
     min-height:100vh;
-    overflow:hidden;
 }
 
 img{
@@ -45,7 +50,7 @@ img{
 }
 
 .bottom-circle{
-    top:50%;
+    top:40%;
     left:50%;
 }
 
@@ -118,4 +123,26 @@ img{
 .attribution{
     margin-top:100px;
     text-align:center;
+}
+
+@media screen and (max-width:450px){
+
+    #card{
+        max-width:90%;
+        margin:auto;
+    }
+
+    .circle{
+        width:90%;
+    }
+
+    .top-circle{
+        top:-40%;
+        left:-40%;
+    }
+    
+    .bottom-circle{
+        top:65%;
+        left:40%;
+    }
 }
