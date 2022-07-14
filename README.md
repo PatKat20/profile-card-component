@@ -26,7 +26,7 @@ Essa é a solução para [Profile card component challenge on Frontend Mentor](h
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [profile-card-component](https://patkat20.github.io/profile-card-component/)
 
 ## Meu Processo
 
@@ -41,6 +41,5 @@ Essa é a solução para [Profile card component challenge on Frontend Mentor](h
 
 - Website - [Patkat20](https://patkat20.github.io)
 - Frontend Mentor - [@PatKat20](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 ****
